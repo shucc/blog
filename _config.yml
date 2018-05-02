@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
+title: shucc
+subtitle: 一只狡诈的联盟狗
+description: 为了联盟！
 author: shucc
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: https://avatars2.githubusercontent.com/u/9978185?s=400&u=1b442c73196ed1c6b84735f63ae71013c316ae84&v=4
 
 
 # Table Of Contents in the Sidebar
